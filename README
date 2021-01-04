@@ -7,6 +7,9 @@ DirectFB README
 
    Check http://www.directfb.org/ for more and up to date infos.
 
+Resource on Gitlab
+-------------------------------------
+https://github.com/deniskropp/DirectFB/tree/directfb-1.7
 
 Supported Operating Systems
 ---------------------------
@@ -342,7 +345,7 @@ Thanks to
    Antonino Daplas <adaplas@users.sourceforge.net>
    Scott A McConnell <samcconn@cotw.com>
    Alex SONG <zzaleson@uqconnect.net>
-   Ville Syrj‰l‰ <syrjala@sci.fi>
+   Ville Syrj√§l√§ <syrjala@sci.fi>
    Brian J. Murrell <a40e8119bbddbe7b3d281db117f19b32@interlinx.bc.ca>
    Tim Janik <timj@gtk.org>
    Billy Biggs <vektor@dumbterm.net>
@@ -355,7 +358,7 @@ Thanks to
    Oliver Schwartz <Oliver.Schwartz@gmx.de>
    Florian <florian.fernandez2@wanadoo.fr>
    J.P. Delport <jpdelport@csir.co.za>
-   Michel D‰nzer <michel@daenzer.net>
+   Michel D√§nzer <michel@daenzer.net>
    Maurizio Monge <monge@sns.it>
    Tim Wright <tim.wright@iosystems.co.uk>
    Liam Girdwood <liam.girdwood@wolfsonmicro.com>
@@ -374,7 +377,7 @@ Thanks to
    Mws <mws@twisted-brains.org>
    Ivan Daniluk <ivan@shvydko.ua>
    Mark Salter <msalter@redhat.com>
-   Martin L¸tken <nitram@lutken.dk>
+   Martin L√ºtken <nitram@lutken.dk>
    Sylvain Meyer <sylvain.meyer@worldonline.fr>
    Mark Adams <mark147m@gmail.com>
    Damian Kowalewski <damian.kowalewski@mail.mcgill.ca>
@@ -386,16 +389,16 @@ Thanks to
    Jeff Bailey <jbailey@ubuntu.com>
    Andreas Jochens <aj@andaco.de>
    Daniel J Laird <daniel.j.laird@nxp.com>
-   Marko M‰kel‰ <marko.makela@hut.fi>
+   Marko M√§kel√§ <marko.makela@hut.fi>
    Nils Magnus Larsgard <nmlarsgaard@atmel.no>
-   P‰r Degerman <parde@ikp.liu.se>
+   P√§r Degerman <parde@ikp.liu.se>
    Michel van Noorloos <michel.van.noorloos@sioux.nl>
    Gery <gxkahn@gmail.com>
    Shane <shanevolpe@gmail.com>
    Paul Mackerras <paulus@samba.org>
    Attilio Fiandrotti <attilio.fiandrotti@gmail.com>
    Vaclav Slavik <vslavik@fastmail.fm>
-   Philip J‰genstedt <philipj@opera.com>
+   Philip J√§genstedt <philipj@opera.com>
    sridewa <sridewa@gmail.com>
    Eugene Everson <eugene@tranzas.co.jp>
    Mike Crowe <mac@mcrowe.com>
@@ -427,7 +430,7 @@ Legal stuff
               Andreas Shimokawa <andi@directfb.org>,
               Marek Pikarski <mass@directfb.org>,
               Sven Neumann <neo@directfb.org>,
-              Ville Syrj√§l√§ <syrjala@sci.fi> and
+              Ville Syrj√É¬§l√É¬§ <syrjala@sci.fi> and
               Claudio Ciccani <klan@users.sf.net>.
 
    This library is free software; you can redistribute it and/or
